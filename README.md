@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Suraj Singh 👋<br>Data Analyst | MIS Executive | Data Automation | Business Intelligence<br><br>I’m a Data Analyst and MIS professional with 3.5+ years of experience in data reporting, analysis, dashboard development, business operations, and report automation.<br><br>I specialize in transforming raw business data into meaningful insights, automated reports, and interactive dashboards that help organizations monitor performance and make data-driven decisions.<br><br>👨‍💻 About Me<br>📊 3.5+ years of experience in MIS, Data Analysis & Business Reporting<br>📈 Experienced in building Power BI & Excel dashboards<br>🐍 Hands-on experience with Python, Pandas & data automation<br>🗄️ Working knowledge of SQL & database operations<br>⚡ Strong experience in Advanced Excel, VBA & report automation<br>🧹 Experienced in data cleaning, transformation & analysis<br>🌐 Developed web-scraping solutions using BeautifulSoup & Selenium<br>🤖 Built automation solutions that reduced manual data entry by 90%+<br>💼 Experienced in managing MIS teams and end-to-end reporting processes<br>🎓 Bachelor of Computer Application (BCA)<br>🛠️ Technical Skills<br><br>Data Analysis & BI<br><br>Excel<br>Power BI<br>Tableau<br>SQL<br>Python<br>Pandas<br>Data Cleaning<br>Data Transformation<br>Dashboard Development<br>KPI & Business Reporting<br><br>Automation<br><br>VBA / Excel Macros<br>Python Automation<br>Report Automation<br>Web Scraping<br>BeautifulSoup<br>Selenium<br><br>Programming & Development<br><br>Python<br>Java<br>JavaScript<br>C#<br>.NET<br>HTML<br>CSS<br><br>Other Technical Skills<br><br>Linux<br>Active Directory<br>Web Security<br>Network Security<br>OWASP Top 10<br>📂 What I Work On<br><br>I enjoy working on projects related to:<br><br>📊 Data Analysis<br>📈 Business Intelligence<br>📋 MIS Reporting<br>🤖 Data & Report Automation<br>🐍 Python Data Projects<br>🗄️ SQL Analysis<br>📊 Power BI Dashboards<br>📑 Advanced Excel Dashboards<br>🌐 Web Scraping & Data Extraction<br>🚀 Current Goal<br><br>I am currently focused on transitioning and growing further as a Data Analyst, combining my strong MIS and business-reporting experience with SQL, Python, Excel, Power BI, and data visualization.<br><br>My goal is to build practical data projects that demonstrate how I can use data to solve business problems, automate repetitive processes, identify trends, and generate actionable insights.<br><br>📌 Featured Projects<br><br>Some of the projects I am working on include:<br><br>📊 Sales Analysis Dashboard<br>📈 Business KPI Dashboard<br>🐍 Python Data Analysis Projects<br>🗄️ SQL Data Analysis Projects<br>📑 Excel MIS Automation<br>🤖 Automated Reporting Systems<br>🌐 Web Scraping & Data Collection Projects<br>📫 Connect With Me<br>💼 LinkedIn: Suraj Singh<br>💻 GitHub: suraj944<br>📧 Email: surajsingh511921@gmail.com<br><br>⭐ I’m open to opportunities in Data Analytics, MIS, Business Intelligence, and Data Automation.
 
-<!--
-**suraj944/suraj944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajsingh511921@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=suraj_singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=suraj_singh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=suraj_singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
